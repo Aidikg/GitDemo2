@@ -3,6 +3,8 @@ public class FirstClass {
 	
 	public static void main(String[] args) {
 		System.out.println("My first Class");
+		System.out.println("I did some difference here");
+		System.out.println("After uploading ");
 	}
 	
 }
